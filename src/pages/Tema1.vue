@@ -197,14 +197,14 @@
                   src="@/assets/curso/temas/17.png"
                   alt=""
                 />
-                <h5 class="mb-4">Actualización de firmware</h5>
+                <h5 class="mb-4">Actualización de <em>firmware</em></h5>
                 <p class="mb-0">
                   Los fabricantes de equipos de certificación lanzan
-                  regularmente actualizaciones de firmware para mejorar las
-                  capacidades del dispositivo y corregir problemas conocidos. Es
-                  fundamental estar al tanto de estas actualizaciones y
-                  aplicarlas para mantener el equipo en óptimas condiciones
-                  operativas.
+                  regularmente actualizaciones de <em>firmware</em> para mejorar
+                  las capacidades del dispositivo y corregir problemas
+                  conocidos. Es fundamental estar al tanto de estas
+                  actualizaciones y aplicarlas para mantener el equipo en
+                  óptimas condiciones operativas.
                 </p>
               </div>
             </div>
@@ -241,13 +241,14 @@
             <div titulo="Diafonía">
               <p>
                 Existen dos tipos principales de diafonía que se miden: NEXT
-                (Near-End Crosstalk) y FEXT (Far-End Crosstalk). La diafonía se
-                produce cuando la señal de un par de cables se acopla a un par
-                adyacente, causando interferencias. NEXT mide la diafonía cerca
-                del punto de transmisión, mientras que FEXT lo hace en el
-                extremo opuesto. Mantener estos valores dentro de los límites
-                especificados ayuda a asegurar que las señales no interfieran
-                entre sí, especialmente en aplicaciones de alta velocidad.
+                (<em>Near-End Crosstalk</em>) y FEXT (<em>Far-End Crosstalk</em
+                >). La diafonía se produce cuando la señal de un par de cables
+                se acopla a un par adyacente, causando interferencias. NEXT mide
+                la diafonía cerca del punto de transmisión, mientras que FEXT lo
+                hace en el extremo opuesto. Mantener estos valores dentro de los
+                límites especificados ayuda a asegurar que las señales no
+                interfieran entre sí, especialmente en aplicaciones de alta
+                velocidad.
               </p>
             </div>
             <div

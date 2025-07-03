@@ -34,7 +34,7 @@
         especificaciones y estándares establecidos.
       </p>
       <div class="row bg8 align-items-center mb-5">
-        <div class="px-lg-5 px-4">
+        <div class="px-5 px-4">
           <div class="row justify-content-start">
             <div class="col-auto mb-lg-4 mb-0">
               <div class="list">
@@ -58,13 +58,13 @@
               />
             </div>
             <div class="col-lg-9">
-              <div class="bg9 brad p-4 h-100 j1">
+              <div class="bg9 brad p-4 h-100 ">
                 <CarouselRED tipo="b">
                   <div class="bgw sha brad1 p-4 h-100">
                     <div class="row justify-content-center">
                       <div class="col-lg-4 my-lg-0 my-3">
                         <img
-                          class="img-a img-t"
+                          class="img-a img-t d-lg-block d-none"
                           src="@/assets/curso/temas/56.png"
                           alt=""
                         />
@@ -82,7 +82,7 @@
                     <div class="row justify-content-center">
                       <div class="col-lg-4 my-lg-0 my-3">
                         <img
-                          class="img-a img-t"
+                          class="img-a img-t d-lg-block d-none"
                           src="@/assets/curso/temas/56.png"
                           alt=""
                         />
@@ -103,7 +103,7 @@
                     <div class="row justify-content-center">
                       <div class="col-lg-4 my-lg-0 my-3">
                         <img
-                          class="img-a img-t"
+                          class="img-a img-t d-lg-block d-none"
                           src="@/assets/curso/temas/56.png"
                           alt=""
                         />
@@ -122,7 +122,7 @@
                     <div class="row justify-content-center">
                       <div class="col-lg-4 my-lg-0 my-3">
                         <img
-                          class="img-a img-t"
+                          class="img-a img-t d-lg-block d-none"
                           src="@/assets/curso/temas/56.png"
                           alt=""
                         />
